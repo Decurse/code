@@ -1,1 +1,0 @@
-vless://217a77a7-7636-4c2e-8db8-ff5ebfbe53d9@185.132.81.232:8050?security=none&type=ws&headerType=&path=&host=#%F0%9F%9A%80%20Server%201%20%F0%9F%87%A9%F0%9F%87%AA
